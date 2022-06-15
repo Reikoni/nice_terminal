@@ -5,7 +5,7 @@
 **Current version**: Beta
 
 **Nice Terminal** is an open source terminal written in Python without the use of extra libraries.
-This termtnal makes it easy to write command descriptions and their functionality right in Python!
+This terminal makes it easy to write command descriptions and their functionality right in Python!
 Nice Terminal currently works only on OS Linux.
 
 ## Installation and launch
