@@ -1,6 +1,6 @@
 # Basic information about the terminal
 
-[English ReadMe](https://github.com/Reikoni/nice_terminal/README.md) • [Русский ReadMe](https://github.com/Reikoni/nice_terminal/blob/main/README.ru.md)
+[English ReadMe](https://github.com/Reikoni/nice_terminal/blob/master/README.md) • [Русский ReadMe](https://github.com/Reikoni/nice_terminal/blob/master/README.ru.md)
 
 **Current version**: Beta
 
