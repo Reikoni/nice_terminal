@@ -1,0 +1,7 @@
+{
+    "type": "panel",
+    "name": "Default",
+    "files": {
+        "prompt": "custom/panels/default/prompt.json"
+    }
+}

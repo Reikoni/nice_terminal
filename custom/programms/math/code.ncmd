@@ -1,0 +1,12 @@
+pwd |~| path
+prg-edit <title> <$path$>
+ls
+man-ask <Entry a name file or folder: >
+man-get |~| name
+is-file <$name$> |~| file
+is-dir <$name$> |~| dir
+if <$file$ == True> <read /*$name$*/> <if /*$dir$ == True*/ /*cd /*$name$*/>
+rd <>
+var <name> < >
+var <file> < >
+var <dir> < >

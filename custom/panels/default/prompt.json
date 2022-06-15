@@ -1,0 +1,8 @@
+{
+    "structure": "$root$$name_user$ $prompt$ ",
+    "widgets": {
+        "root": {"text": "$ROOT$", "color": ["31", "32"], "style": "1", "text2": ["$", "%"]},
+        "name_user": {"text": "$NAME-USER$", "color": "34", "style": "1"},
+        "prompt": {"text": "~?", "color": "35", "style": "1"}
+    }
+}
