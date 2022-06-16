@@ -1,6 +1,6 @@
 {
-    "host_name": "nice_terminal0.1",
-    "version": "0.0.1",
+    "host_name": "nice_terminal",
+    "version": "beta1",
     "preffix": "--",
     "default_user": "001"
 }
